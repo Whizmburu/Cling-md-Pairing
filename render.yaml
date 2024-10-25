@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cling-md-qr
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
+    startCommand: ""
